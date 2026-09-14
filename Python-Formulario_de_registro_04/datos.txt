@@ -1,0 +1,7 @@
+Nombres: Carlos Arturo
+Apellidos: Perez Cundapi
+Edad: 19
+Estatura: 1.70
+Telefono: 9612345174
+Genero: Hombre
+-------------------------
